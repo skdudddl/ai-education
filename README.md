@@ -79,5 +79,6 @@ print('F1 score',f1_score(y_train,predict_with_best_t(predict_y, find_best_thres
 <a href="https://ibb.co/YPtJ01t"><img src="https://i.ibb.co/pb3NhM3/f1score.png" alt="f1score" border="0"></a>
 ## Result of Execution
 비록 캐글에 제출한 코드의 정확성은 약 77%를 달성하였지만 정밀도와 재현율의 평균인F1 Score은 약 89%를 달성하였습니다.
+
 <a href="https://ibb.co/bz4Ydtx"><img src="https://i.ibb.co/5BQCcZd/result.png" alt="result" border="0"></a>
  
